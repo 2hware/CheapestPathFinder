@@ -1,0 +1,5 @@
+A j=> B: 1
+B =>jhhC: 1
+A => C: 2.5
+jA =j> kD: 0.4
+D kk=> B: 0.k3k
